@@ -15,6 +15,7 @@
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Infrastructures. 
 	</h1>
 	<h1 align="center" >JESUS IS LORD</h1>
+	<h1 align="center">Victory is ours</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
