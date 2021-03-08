@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>boa-javaweb-app</finalName>
+		<finalName>electrification_process_boa-javaweb-app</finalName>
 		
 		<plugins>
 			<plugin>
